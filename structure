@@ -1,5 +1,0 @@
-student-attendance-management-system/
-├── AttendanceSystemSwing.java   # Main source code (Java Swing)
-├── attendance-data.ser         # Serialized data file (used for data storage)
-├── Attendance_System_User_Manual.pdf # User & System Manual
-├── README.md                   # Repository overview and instructions
